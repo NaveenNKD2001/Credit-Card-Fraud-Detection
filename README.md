@@ -1,2 +1,2 @@
 # Credit-Card-Fraud-Detection
-Using the dataset we gonna predict the fraud in paying credit card bill payments. I used Machine Learning Algorithms to classsify the fraud. I used the dataset downloaded from Kaggle.
+Due to digitilazation the number of online transactions are increased. Due to this the number of fraud transactions are also increasing. In this project, we are going to develop a machine learning model that predicts whether the transaction made using credit card is fraud or not.
